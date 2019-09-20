@@ -44,3 +44,8 @@ body {
   font-size: 1.2rem;
   color: var(--mainYellow);
 }
+
+.nav-cart-btn:hover {
+  background: var(--lightBlue) !important;
+  color: var(--mainBlue) !important;
+}
